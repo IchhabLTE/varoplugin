@@ -1,0 +1,11 @@
+name: VaroPlugin
+version: 1.0.0
+main: de.BucaLaumann.varoplugin.main.Main
+
+commands:
+   heal:
+      description: Heals the player
+   start:
+      description: starts varo
+   location:
+      description: get user location
